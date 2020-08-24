@@ -3,7 +3,7 @@
 My name is Tamires and:
 
 🎓 I'm a Computer Scientist.<br/>
-🤓 I love to learn and to teach.<br/>
+🤓 I love to learn and teach.<br/>
 🔎 I'm interested in UI/UX.<br/>
 📚 I’m currently learning React and Node.<br/>
 ⚡ Fun facts: I'm vegetarian and I love to travel.<br/>
